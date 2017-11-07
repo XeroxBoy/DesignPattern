@@ -14,7 +14,7 @@ import java.util.Random;
 }
 public class PeopleFactory {
     public People createPeople(String initWord){
-        int init=3;
+        int init=3;//用init代表性别 便于用随机数来实现随机
         if(initWord.equals("Boy"))
             init=people.Boy.ordinal();
         if(initWord.equals("Girl"))
