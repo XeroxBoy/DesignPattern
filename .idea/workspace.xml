@@ -1,10 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="8e8b7ac9-1736-4620-bbcc-36fd1272a034" name="默认的" comment="123">
+    <list default="true" id="8e8b7ac9-1736-4620-bbcc-36fd1272a034" name="默认的" comment="">
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/Pattern/Main.class" afterPath="" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/Pattern/bean/architect.class" afterPath="$PROJECT_DIR$/out/production/Pattern/bean/architect.class" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/facMain.java" afterPath="$PROJECT_DIR$/src/facMain.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/simpleFactory/PeopleFactory.java" afterPath="$PROJECT_DIR$/src/simpleFactory/PeopleFactory.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/simpleBean/people.java" afterPath="$PROJECT_DIR$/src/simpleBean/people.java" />
     </list>
     <ignored path="Spring.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -53,11 +55,11 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="facMain.java" pinned="false" current-in-tab="false">
+      <file leaf-file-name="facMain.java" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/facMain.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="730">
-              <caret line="32" column="21" selection-start-line="32" selection-start-column="21" selection-end-line="32" selection-end-column="21" />
+            <state relative-caret-position="404">
+              <caret line="49" column="2" selection-start-line="49" selection-start-column="2" selection-end-line="49" selection-end-column="2" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -101,7 +103,7 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="PeopleFactory.java" pinned="false" current-in-tab="true">
+      <file leaf-file-name="PeopleFactory.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/simpleFactory/PeopleFactory.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="162">
@@ -175,9 +177,9 @@
         <option value="$PROJECT_DIR$/src/factory/technicianFac.java" />
         <option value="$PROJECT_DIR$/src/factory/cookFac.java" />
         <option value="$PROJECT_DIR$/src/factory/magicianFac.java" />
-        <option value="$PROJECT_DIR$/src/facMain.java" />
         <option value="$PROJECT_DIR$/src/simpleBean/People.java" />
         <option value="$PROJECT_DIR$/src/simpleFactory/PeopleFactory.java" />
+        <option value="$PROJECT_DIR$/src/facMain.java" />
       </list>
     </option>
   </component>
@@ -864,12 +866,20 @@
       <workItem from="1509928457528" duration="117000" />
       <workItem from="1509928726393" duration="4130000" />
       <workItem from="1510034149326" duration="440000" />
-      <workItem from="1510036414508" duration="2547000" />
+      <workItem from="1510036414508" duration="2940000" />
     </task>
+    <task id="LOCAL-00001" summary="123">
+      <created>1510068307809</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1510068307809</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="7234000" />
+    <option name="totallyTimeSpent" value="7627000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -895,7 +905,7 @@
       <window_info id="运行" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.3290398" sideWeight="0.4784946" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Capture Tool" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="控制板" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="版本控制" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3290398" sideWeight="0.4935484" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="设计师" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
@@ -926,7 +936,8 @@
     <option name="myLimit" value="2678400000" />
   </component>
   <component name="VcsManagerConfiguration">
-    <option name="LAST_COMMIT_MESSAGE" value="" />
+    <MESSAGE value="123" />
+    <option name="LAST_COMMIT_MESSAGE" value="123" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -1152,16 +1163,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/facMain.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="730">
-          <caret line="32" column="21" selection-start-line="32" selection-start-column="21" selection-end-line="32" selection-end-column="21" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/simpleBean/People.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="243">
@@ -1197,6 +1198,16 @@
         <state relative-caret-position="162">
           <caret line="16" column="42" selection-start-line="16" selection-start-column="42" selection-end-line="16" selection-end-column="42" />
           <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/facMain.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="404">
+          <caret line="49" column="2" selection-start-line="49" selection-start-column="2" selection-end-line="49" selection-end-column="2" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
