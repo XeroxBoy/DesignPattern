@@ -1,4 +1,4 @@
-package bean;
+package fac.bean;
 
 /**
  * Created by AlexAnderIch on 2017/11/6.

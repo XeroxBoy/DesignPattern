@@ -1,8 +1,8 @@
-package factory;
+package fac.factory;
 
-import bean.character;
-import bean.technician;
-import factoryInter.characterFac;
+import fac.bean.character;
+import fac.bean.technician;
+import fac.factoryInter.characterFac;
 
 /**
  * Created by AlexAnderIch on 2017/11/6.

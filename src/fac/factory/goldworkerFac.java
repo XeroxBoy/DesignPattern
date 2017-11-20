@@ -1,7 +1,7 @@
-package factory;
-import bean.character;
-import bean.goldworker;
-import factoryInter.*;
+package fac.factory;
+import fac.bean.character;
+import fac.bean.goldworker;
+import fac.factoryInter.*;
 /**
  * Created by AlexAnderIch on 2017/11/6.
  */

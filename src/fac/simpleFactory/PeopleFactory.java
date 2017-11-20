@@ -1,10 +1,8 @@
-package simpleFactory;
+package fac.simpleFactory;
 
-import simpleBean.People;
+import fac.simpleBean.People;
 
-import simpleBean.*;
-
-import java.util.Random;
+import fac.simpleBean.*;
 
 /**
  * Created by AlexAnderIch on 2017/11/6.

@@ -1,4 +1,4 @@
-package simpleBean;
+package fac.simpleBean;
 
 /**
  * Created by AlexAnderIch on 2017/11/6.

@@ -1,6 +1,8 @@
-import bean.character;
-import factory.*;
-import factoryInter.characterFac;
+package fac;
+
+import fac.bean.character;
+import fac.factory.*;
+import fac.factoryInter.characterFac;
 
 import java.util.Scanner;
 

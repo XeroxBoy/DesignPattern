@@ -1,5 +1,7 @@
-import simpleBean.People;
-import simpleFactory.PeopleFactory;
+package fac;
+
+import fac.simpleBean.People;
+import fac.simpleFactory.PeopleFactory;
 
 import java.util.Scanner;
 

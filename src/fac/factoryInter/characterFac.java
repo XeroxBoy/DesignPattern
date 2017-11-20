@@ -1,6 +1,6 @@
-package factoryInter;
+package fac.factoryInter;
 
-import bean.character;
+import fac.bean.character;
 
 /**
  * Created by AlexAnderIch on 2017/11/6.

@@ -1,8 +1,8 @@
-package factory;
+package fac.factory;
 
-import bean.character;
-import bean.cook;
-import factoryInter.characterFac;
+import fac.bean.character;
+import fac.bean.cook;
+import fac.factoryInter.characterFac;
 
 /**
  * Created by AlexAnderIch on 2017/11/6.
