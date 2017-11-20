@@ -2,36 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="8e8b7ac9-1736-4620-bbcc-36fd1272a034" name="默认的" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/creator/coach.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/creator/mind.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/creator/mindA.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/creator/mindB.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/creator/strategy.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/fac/simpleBean/People.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/prototype/student.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/single/allocator.java" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/simpleBean/people.java" afterPath="" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/bean/architect.java" afterPath="$PROJECT_DIR$/src/fac/bean/architect.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/bean/character.java" afterPath="$PROJECT_DIR$/src/fac/bean/character.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/bean/cook.java" afterPath="$PROJECT_DIR$/src/fac/bean/cook.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/bean/doctor.java" afterPath="$PROJECT_DIR$/src/fac/bean/doctor.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/bean/goldworker.java" afterPath="$PROJECT_DIR$/src/fac/bean/goldworker.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/bean/magician.java" afterPath="$PROJECT_DIR$/src/fac/bean/magician.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/bean/technician.java" afterPath="$PROJECT_DIR$/src/fac/bean/technician.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/facMain.java" afterPath="$PROJECT_DIR$/src/fac/facMain.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/factory/architectFac.java" afterPath="$PROJECT_DIR$/src/fac/factory/architectFac.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/factory/cookFac.java" afterPath="$PROJECT_DIR$/src/fac/factory/cookFac.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/factory/doctorFac.java" afterPath="$PROJECT_DIR$/src/fac/factory/doctorFac.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/factory/goldworkerFac.java" afterPath="$PROJECT_DIR$/src/fac/factory/goldworkerFac.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/factory/magicianFac.java" afterPath="$PROJECT_DIR$/src/fac/factory/magicianFac.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/factory/technicianFac.java" afterPath="$PROJECT_DIR$/src/fac/factory/technicianFac.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/factoryInter/characterFac.java" afterPath="$PROJECT_DIR$/src/fac/factoryInter/characterFac.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/simpleBean/boy.java" afterPath="$PROJECT_DIR$/src/fac/simpleBean/boy.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/simpleBean/girl.java" afterPath="$PROJECT_DIR$/src/fac/simpleBean/girl.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/simpleFacMain.java" afterPath="$PROJECT_DIR$/src/fac/simpleFacMain.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/simpleFactory/PeopleFactory.java" afterPath="$PROJECT_DIR$/src/fac/simpleFactory/PeopleFactory.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/Pattern/simpleBean/People.class" afterPath="$PROJECT_DIR$/out/production/Pattern/simpleBean/People.class" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/Pattern.iml" afterPath="$PROJECT_DIR$/DesignPattern.iml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/prototype/student.java" afterPath="$PROJECT_DIR$/src/prototype/student.java" />
     </list>
     <ignored path="Spring.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -106,8 +79,8 @@
       <file leaf-file-name="student.java" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/prototype/student.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="270">
-              <caret line="10" column="31" selection-start-line="10" selection-start-column="31" selection-end-line="10" selection-end-column="31" />
+            <state relative-caret-position="27">
+              <caret line="1" column="0" selection-start-line="1" selection-start-column="0" selection-end-line="1" selection-end-column="0" />
               <folding />
             </state>
           </provider>
@@ -861,7 +834,7 @@
       <workItem from="1509928726393" duration="4130000" />
       <workItem from="1510034149326" duration="440000" />
       <workItem from="1510036414508" duration="2952000" />
-      <workItem from="1511146594393" duration="2763000" />
+      <workItem from="1511146594393" duration="2900000" />
     </task>
     <task id="LOCAL-00001" summary="123">
       <created>1510068307809</created>
@@ -877,11 +850,18 @@
       <option name="project" value="LOCAL" />
       <updated>1510105205768</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="123">
+      <created>1511149407400</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1511149407400</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="10402000" />
+    <option name="totallyTimeSpent" value="10539000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -901,10 +881,11 @@
       <window_info id="Capture Analysis" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.3290398" sideWeight="0.52150536" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="消息" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33021078" sideWeight="0.49785638" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3290398" sideWeight="0.4870968" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Capture Tool" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="控制板" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.24973205" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.24973205" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="版本控制" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3290398" sideWeight="0.4935484" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="设计师" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
@@ -920,7 +901,6 @@
       <window_info id="调试" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3290398" sideWeight="0.49571276" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
       <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="消息" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33021078" sideWeight="0.49785638" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="运行" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3290398" sideWeight="0.4784946" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="找到" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
@@ -1360,8 +1340,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/prototype/student.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="270">
-          <caret line="10" column="31" selection-start-line="10" selection-start-column="31" selection-end-line="10" selection-end-column="31" />
+        <state relative-caret-position="27">
+          <caret line="1" column="0" selection-start-line="1" selection-start-column="0" selection-end-line="1" selection-end-column="0" />
           <folding />
         </state>
       </provider>
