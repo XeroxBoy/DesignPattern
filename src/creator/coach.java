@@ -5,6 +5,9 @@ package creator;
  */
 public class coach {
     private mind mind;
+    public coach(mind mind){
+        this.mind=mind;
+    }
     public strategy makeSt(){
         mind=new mindA();
         mind.makeForward();

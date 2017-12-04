@@ -4,7 +4,7 @@ package single;
  * Created by AlexAnderIch on 2017/11/20.
  */
 public class allocator {
-    private allocator allocator=null;
+    private static allocator allocator=null;
     private allocator(){
 
     }
@@ -20,7 +20,7 @@ public class allocator {
     public void setNo(int no) {
         this.no = no;
     }
-    public allocator getAllocator(){
+    public static allocator getAllocator(){
         if(allocator==null)
         {
             allocator=new allocator();
