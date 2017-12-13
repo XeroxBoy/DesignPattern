@@ -26,6 +26,11 @@ public class PeopleFactory {
             default:break;
         }
         System.out.println("输入有误");
-        return null;
+        return new People() {
+            @Override
+            public void say() {
+                System.out.print("我是人");
+            }
+        };
     }
 }
