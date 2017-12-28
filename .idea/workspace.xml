@@ -2,64 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="8e8b7ac9-1736-4620-bbcc-36fd1272a034" name="默认的" comment="">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/compiler.xml" afterPath="$PROJECT_DIR$/.idea/compiler.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/copyright/profiles_settings.xml" afterPath="$PROJECT_DIR$/.idea/copyright/profiles_settings.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/encodings.xml" afterPath="$PROJECT_DIR$/.idea/encodings.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/misc.xml" afterPath="$PROJECT_DIR$/.idea/misc.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/modules.xml" afterPath="$PROJECT_DIR$/.idea/modules.xml" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/adapter/classAda/usb.java" afterPath="" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/DesignPattern.iml" afterPath="$PROJECT_DIR$/DesignPattern.iml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/adapter/classAda/exAda.java" afterPath="$PROJECT_DIR$/src/adapter/classAda/exAda.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/adapter/classAda/plug.java" afterPath="$PROJECT_DIR$/src/adapter/classAda/plug.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/adapter/classAda/supplyer.java" afterPath="$PROJECT_DIR$/src/adapter/classAda/supplyer.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/adapter/classAda/usbAda.java" afterPath="$PROJECT_DIR$/src/adapter/classAda/usbAda.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/adapter/objAda/exAda.java" afterPath="$PROJECT_DIR$/src/adapter/objAda/exAda.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/adapter/objAda/plug.java" afterPath="$PROJECT_DIR$/src/adapter/objAda/plug.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/adapter/objAda/supplyer.java" afterPath="$PROJECT_DIR$/src/adapter/objAda/supplyer.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/adapter/objAda/usbAda.java" afterPath="$PROJECT_DIR$/src/adapter/objAda/usbAda.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/composite/Polisher.java" afterPath="$PROJECT_DIR$/src/composite/Polisher.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/composite/bigMon.java" afterPath="$PROJECT_DIR$/src/composite/bigMon.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/composite/dormBoss.java" afterPath="$PROJECT_DIR$/src/composite/dormBoss.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/composite/smallMon.java" afterPath="$PROJECT_DIR$/src/composite/smallMon.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/composite/student.java" afterPath="$PROJECT_DIR$/src/composite/student.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/creator/coach.java" afterPath="$PROJECT_DIR$/src/creator/coach.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/creator/mind.java" afterPath="$PROJECT_DIR$/src/creator/mind.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/creator/mindA.java" afterPath="$PROJECT_DIR$/src/creator/mindA.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/creator/mindB.java" afterPath="$PROJECT_DIR$/src/creator/mindB.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/creator/strategy.java" afterPath="$PROJECT_DIR$/src/creator/strategy.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/fac/bean/architect.java" afterPath="$PROJECT_DIR$/src/fac/bean/architect.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/fac/bean/character.java" afterPath="$PROJECT_DIR$/src/fac/bean/character.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/fac/bean/cook.java" afterPath="$PROJECT_DIR$/src/fac/bean/cook.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/fac/bean/doctor.java" afterPath="$PROJECT_DIR$/src/fac/bean/doctor.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/fac/bean/goldworker.java" afterPath="$PROJECT_DIR$/src/fac/bean/goldworker.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/fac/bean/magician.java" afterPath="$PROJECT_DIR$/src/fac/bean/magician.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/fac/bean/technician.java" afterPath="$PROJECT_DIR$/src/fac/bean/technician.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/fac/facMain.java" afterPath="$PROJECT_DIR$/src/fac/facMain.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/fac/factory/architectFac.java" afterPath="$PROJECT_DIR$/src/fac/factory/architectFac.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/fac/factory/cookFac.java" afterPath="$PROJECT_DIR$/src/fac/factory/cookFac.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/fac/factory/doctorFac.java" afterPath="$PROJECT_DIR$/src/fac/factory/doctorFac.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/fac/factory/goldworkerFac.java" afterPath="$PROJECT_DIR$/src/fac/factory/goldworkerFac.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/fac/factory/magicianFac.java" afterPath="$PROJECT_DIR$/src/fac/factory/magicianFac.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/fac/factory/technicianFac.java" afterPath="$PROJECT_DIR$/src/fac/factory/technicianFac.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/fac/factoryInter/characterFac.java" afterPath="$PROJECT_DIR$/src/fac/factoryInter/characterFac.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/fac/simpleBean/People.java" afterPath="$PROJECT_DIR$/src/fac/simpleBean/People.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/fac/simpleBean/boy.java" afterPath="$PROJECT_DIR$/src/fac/simpleBean/boy.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/fac/simpleBean/girl.java" afterPath="$PROJECT_DIR$/src/fac/simpleBean/girl.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/fac/simpleFacMain.java" afterPath="$PROJECT_DIR$/src/fac/simpleFacMain.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/fac/simpleFactory/PeopleFactory.java" afterPath="$PROJECT_DIR$/src/fac/simpleFactory/PeopleFactory.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/facade/landLord.java" afterPath="$PROJECT_DIR$/src/facade/landLord.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/facade/mediator.java" afterPath="$PROJECT_DIR$/src/facade/mediator.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/prototype/student.java" afterPath="$PROJECT_DIR$/src/prototype/student.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/proxy/cream.java" afterPath="$PROJECT_DIR$/src/proxy/cream.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/proxy/cream1.java" afterPath="$PROJECT_DIR$/src/proxy/cream1.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/proxy/cream2.java" afterPath="$PROJECT_DIR$/src/proxy/cream2.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/proxy/cream3.java" afterPath="$PROJECT_DIR$/src/proxy/cream3.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/proxy/cream4.java" afterPath="$PROJECT_DIR$/src/proxy/cream4.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/proxy/cream5.java" afterPath="$PROJECT_DIR$/src/proxy/cream5.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/proxy/creamFirm.java" afterPath="$PROJECT_DIR$/src/proxy/creamFirm.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/proxy/creamSell.java" afterPath="$PROJECT_DIR$/src/proxy/creamSell.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/proxy/creamTrader.java" afterPath="$PROJECT_DIR$/src/proxy/creamTrader.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/single/allocator.java" afterPath="$PROJECT_DIR$/src/single/allocator.java" />
     </list>
     <ignored path="Spring.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -145,16 +89,6 @@
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="150">
               <caret line="6" column="27" selection-start-line="6" selection-start-column="27" selection-end-line="6" selection-end-column="40" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="cream4.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/proxy/cream4.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="250">
-              <caret line="14" column="22" selection-start-line="14" selection-start-column="22" selection-end-line="14" selection-end-column="22" />
               <folding />
             </state>
           </provider>
@@ -258,10 +192,10 @@
         <option value="$PROJECT_DIR$/src/fac/simpleFacMain.java" />
         <option value="$PROJECT_DIR$/src/fac/simpleFactory/PeopleFactory.java" />
         <option value="$PROJECT_DIR$/src/adapter/classAda/exAda.java" />
-        <option value="$PROJECT_DIR$/src/adapter/classAda/usb.java" />
         <option value="$PROJECT_DIR$/src/adapter/classAda/plug.java" />
         <option value="$PROJECT_DIR$/src/creator/coach.java" />
         <option value="$PROJECT_DIR$/src/composite/bigMon.java" />
+        <option value="$PROJECT_DIR$/src/adapter/classAda/usb.java" />
       </list>
     </option>
   </component>
@@ -314,6 +248,106 @@
             <PATH_ELEMENT>
               <option name="myItemId" value="Pattern" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Pattern" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Pattern" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Pattern" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Pattern" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="src" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Pattern" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Pattern" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="src" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="creator" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Pattern" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Pattern" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="src" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="composite" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Pattern" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Pattern" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="src" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="adapter" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Pattern" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Pattern" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="src" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="adapter" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="classAda" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
         </subPane>
@@ -883,7 +917,7 @@
       <workItem from="1513168917353" duration="629000" />
       <workItem from="1513169752977" duration="708000" />
       <workItem from="1514434095921" duration="3134000" />
-      <workItem from="1514439122785" duration="15000" />
+      <workItem from="1514439122785" duration="60000" />
     </task>
     <task id="LOCAL-00001" summary="123">
       <created>1510068307809</created>
@@ -927,11 +961,18 @@
       <option name="project" value="LOCAL" />
       <updated>1512958396072</updated>
     </task>
-    <option name="localTasksCounter" value="7" />
+    <task id="LOCAL-00007" summary="123">
+      <created>1514439158051</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1514439158051</updated>
+    </task>
+    <option name="localTasksCounter" value="8" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="24061000" />
+    <option name="totallyTimeSpent" value="24106000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -951,10 +992,11 @@
       <window_info id="Capture Analysis" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.32932165" sideWeight="0.50208336" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="消息" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32932165" sideWeight="0.49375" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3290398" sideWeight="0.4870968" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Capture Tool" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="控制板" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.24895833" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.24895833" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="版本控制" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3290398" sideWeight="0.4935484" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="设计师" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
@@ -974,7 +1016,6 @@
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
       <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.32979852" sideWeight="0.49791667" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="消息" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32932165" sideWeight="0.49375" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="运行" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.32822758" sideWeight="0.4703125" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32979852" sideWeight="0.49791667" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="找到" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
@@ -1160,17 +1201,14 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/adapter/classAda/usb.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="180">
-          <caret line="6" column="35" selection-start-line="6" selection-start-column="35" selection-end-line="6" selection-end-column="35" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/adapter/classAda/usbAda.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="300">
           <caret line="12" column="22" selection-start-line="12" selection-start-column="22" selection-end-line="12" selection-end-column="22" />
+          <folding>
+            <element signature="e#252#253#0" expanded="true" />
+            <element signature="e#281#282#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
@@ -1178,6 +1216,7 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="297">
           <caret line="11" column="32" selection-start-line="11" selection-start-column="32" selection-end-line="11" selection-end-column="32" />
+          <folding />
         </state>
       </provider>
     </entry>
@@ -1185,6 +1224,10 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="180">
           <caret line="6" column="0" selection-start-line="6" selection-start-column="0" selection-end-line="6" selection-end-column="0" />
+          <folding>
+            <element signature="e#152#153#0" expanded="false" />
+            <element signature="e#195#196#0" expanded="false" />
+          </folding>
         </state>
       </provider>
     </entry>
@@ -1200,6 +1243,7 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="150">
           <caret line="5" column="29" selection-start-line="5" selection-start-column="29" selection-end-line="5" selection-end-column="29" />
+          <folding />
         </state>
       </provider>
     </entry>
@@ -1207,6 +1251,7 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="275">
           <caret line="11" column="32" selection-start-line="11" selection-start-column="32" selection-end-line="11" selection-end-column="32" />
+          <folding />
         </state>
       </provider>
     </entry>
@@ -1214,6 +1259,10 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="180">
           <caret line="6" column="11" selection-start-line="6" selection-start-column="11" selection-end-line="6" selection-end-column="11" />
+          <folding>
+            <element signature="e#140#141#0" expanded="true" />
+            <element signature="e#182#183#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
@@ -1221,6 +1270,7 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="270">
           <caret line="11" column="0" selection-start-line="11" selection-start-column="0" selection-end-line="11" selection-end-column="0" />
+          <folding />
         </state>
       </provider>
     </entry>
@@ -1228,6 +1278,7 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="300">
           <caret line="12" column="31" selection-start-line="12" selection-start-column="31" selection-end-line="12" selection-end-column="31" />
+          <folding />
         </state>
       </provider>
     </entry>
@@ -1235,6 +1286,7 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="210">
           <caret line="7" column="20" selection-start-line="7" selection-start-column="20" selection-end-line="7" selection-end-column="20" />
+          <folding />
         </state>
       </provider>
     </entry>
@@ -1242,6 +1294,7 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="150">
           <caret line="5" column="24" selection-start-line="5" selection-start-column="24" selection-end-line="5" selection-end-column="32" />
+          <folding />
         </state>
       </provider>
     </entry>
@@ -1249,6 +1302,7 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="600">
           <caret line="26" column="0" selection-start-line="26" selection-start-column="0" selection-end-line="26" selection-end-column="0" />
+          <folding />
         </state>
       </provider>
     </entry>
@@ -1256,6 +1310,7 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="300">
           <caret line="10" column="24" selection-start-line="10" selection-start-column="24" selection-end-line="10" selection-end-column="24" />
+          <folding />
         </state>
       </provider>
     </entry>
@@ -1263,6 +1318,7 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="90">
           <caret line="21" column="30" selection-start-line="21" selection-start-column="30" selection-end-line="21" selection-end-column="30" />
+          <folding />
         </state>
       </provider>
     </entry>
@@ -1270,6 +1326,7 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="300">
           <caret line="14" column="22" selection-start-line="14" selection-start-column="22" selection-end-line="14" selection-end-column="22" />
+          <folding />
         </state>
       </provider>
     </entry>
@@ -1346,6 +1403,14 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="375">
           <caret line="21" column="57" selection-start-line="21" selection-start-column="57" selection-end-line="21" selection-end-column="57" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/adapter/classAda/usb.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="150">
+          <caret line="6" column="35" selection-start-line="6" selection-start-column="35" selection-end-line="6" selection-end-column="35" />
           <folding />
         </state>
       </provider>
