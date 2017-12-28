@@ -10,9 +10,7 @@ public class coach {
     }
     public strategy makeSt(){
         mind=new mindA();
-        mind.makeForward();
-        mind.makeMiddle();
-        mind.makeLast();
+        mind.makeForward().makeMiddle().makeLast();
         return mind.getStrategy();
     }
 }
