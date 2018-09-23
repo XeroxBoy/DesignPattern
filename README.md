@@ -22,6 +22,9 @@ The main theme of education  in engineering school is learnin g to teach yoursel
 *排版宽度。*
 
 该函数的返回值为预处理后的文本。预处理后的文本为每一节，及其所在的行号。中间以分号隔 开。若一个节跨越了多行，则行号用逗号隔开，并从小到大进行排列。
+## 思路
+创造了一个内部类：节(Segment,如上上节描述所述) 用于记录每一节的文本，开始与结束的索引位置（用于计算行号）
+先对文本进行检错处理。若无错误则从文本头开始遍历 将每一节放入Segment数组中。再遍历segment数组利用开始与结束的索引位置和排版宽度计算出行号 实现文本处理结果的显示
 
 ## 构建与运行
 本项目使用JAVA语言在IDEA中开发 有一个主类TextProcessor和junit测试类TextProcessorTest 运行时使用IDEA导入该项目 并运行TextProcessorTest 中的测试方法(testTextProcess1-3)即可
